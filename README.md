@@ -8,7 +8,7 @@
 
 *Project Link* -
 
-https://nice-rock-06136e300.3.azurestaticapps.net/index.html
+https://agreeable-river-070b4d200.3.azurestaticapps.net
 
 *Demo Video Link* -  
 https://youtu.be/j26Iw4JYSSg
